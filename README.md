@@ -1,4 +1,4 @@
-# AFM_CNN
+# AFM-CNN
 Characterizing 2D Materials with Semi-Supervised Learning and Convolutional Neural Networks
 AFM Image Analysis by CNN
 This project aims to develop a deep learning model based on convolutional neural networks (CNN) to analyze WSe2 thin film coverage from Atomic Force Microscopy (AFM) images.

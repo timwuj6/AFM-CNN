@@ -16,4 +16,17 @@ The CNN model used in this project consists of several convolutional and pooling
 The trained model achieves a root mean square error of 3.8% on the test set from fine tuned MicrNet encoder. The model can be further improved by increasing the dataset size, fine-tuning the hyperparameters, or using more advanced CNN architectures.
 
 # References
-Zhang, X.,et al. (2018). Diffusion-controlled epitaxy of large area coalesced \ce{WSe2} monolayers on Sapphire. \emph{Nano Letters}, 18(2), 1049–1056.https://doi.org/10.1021/acs.nanolett.7b04521
+Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In: Navab, N., Hornegger, J., Wells, W., Frangi, A. (eds)\emph{ Medical Image Computing and Computer-Assisted Intervention – MICCAI} 2015. MICCAI 2015. Lecture Notes in Computer Science(), vol 9351. Springer, Cham.
+https://doi.org/10.1007/978-3-319-24574-4_28
+
+Zhang, X.,et al. (2018). Diffusion-controlled epitaxy of large area coalesced \ce{WSe2} monolayers on Sapphire. \emph{Nano Letters}, 18(2), 1049–1056. https://doi.org/10.1021/acs.nanolett.7b04521 
+
+Tan, M., $\&$ Le, Q. (2019, May). Efficientnet: Rethinking model scaling for convolutional neural networks. \emph{In International conference on machine learning} (pp. 6105-6114). PMLR. https://arxiv.org/abs/1905.11946
+
+Su, Chao $\&$ Wang, Wenjun. (2020). Concrete Cracks Detection Using Convolutional NeuralNetwork Based on Transfer Learning. \emph{Mathematical Problems in Engineering}. 2020. 1-10. doi 10.1155/2020/7240129. 
+
+J. Deng,et al, "ImageNet: A large-scale hierarchical image database," \emph{2009 IEEE Conference on Computer Vision and Pattern Recognition}, Miami, FL, USA, 2009, pp. 248-255, doi: 10.1109/CVPR.2009.5206848.
+
+Stuckner, J., et al. Microstructure segmentation with deep learning encoders pre-trained on a large microscopy dataset.\emph{npj Comput Mater}8, 200 (2022). https://doi.org/10.1038/s41524-022-00878-5
+
+He, K., Zhang, X., Ren, S., $\&$ Sun, J. (2016). Deep residual learning for image recognition. 2016 \emph{IEEE Conference on Computer Vision and Pattern Recognition} (CVPR). https://doi.org/10.1109/cvpr.2016.90 
